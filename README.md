@@ -16,3 +16,5 @@ O programa "ferias-clt" foi desenvolvido em Codeigniter. Logo, será necessário
 
 Caso o endereço default de seu servidor não seja `localhos`, então também deverá mudar o aquivo `application/config/config.php`
 
+Finalmente, o endereço para acessar o resultado é `/ferias/resumo`
+
